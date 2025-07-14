@@ -32,6 +32,7 @@ employee-management/
 ├── pom.xml
 └── package.json
 
+
 ⚙️ How It Works
 
 1. **Frontend (React):** Users interact with a responsive UI to manage employee data.
