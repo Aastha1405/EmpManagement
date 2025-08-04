@@ -16,7 +16,7 @@ A full-stack Employee Management web application built with **Spring Boot**, **R
 - Layered backend architecture (Controller → Service → Repository)
 - Responsive and modular frontend
 - Validation and error handling
-- Integrated with MySQL database
+- Integrated with MySQL database 
 
   📁 Project Structure
 employee-management/
